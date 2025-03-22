@@ -1,4 +1,3 @@
-![Alt text](static website hosting.png)
 **# AWS Static Website Hosting on S3**
 
 ## **Overview**
