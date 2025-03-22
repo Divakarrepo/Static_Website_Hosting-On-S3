@@ -1,4 +1,4 @@
-![Alt text](static website hosting.png)
+![image](static website hosting.png)
 
 ---
 **# AWS Static Website Hosting on S3**
