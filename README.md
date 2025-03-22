@@ -1,4 +1,4 @@
-![AWS Architecture]("static website hosting.png")
+![AWS Architecture](architecture.png)
 
 ---
 **# AWS Static Website Hosting on S3**
