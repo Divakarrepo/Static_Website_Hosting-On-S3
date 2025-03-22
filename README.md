@@ -1,3 +1,6 @@
+![Alt text](static website hosting.png)
+
+---
 **# AWS Static Website Hosting on S3**
 
 ## **Overview**
@@ -27,5 +30,5 @@ Amazon S3 (Simple Storage Service) allows users to host static websites without 
 
 ## **Conclusion**
 Hosting a static website on AWS S3 is a simple, scalable, and cost-effective solution. With optional services like Route 53, CloudFront, and ACM, performance and security can be further enhanced.
-
+---
 
